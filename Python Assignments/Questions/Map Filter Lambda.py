@@ -20,7 +20,7 @@ def square_numbers(numbers):
     Test Case 3:
     # Additional test cases can be added here
     pass
-
+"""
 
 # Question 2: Implementing a Function to Filter Prime Numbers from a List using Filter
 
@@ -45,7 +45,7 @@ def filter_prime_numbers(numbers):
     # Additional test cases can be added here
     pass
 
-
+"""
 # Question 3: Implementing a Function to Find Squares of Prime Numbers using Map and Filter
 
 def square_prime_numbers(numbers):
@@ -68,7 +68,7 @@ def square_prime_numbers(numbers):
     Test Case 3:
     # Additional test cases can be added here
     pass
-
+"""
 
 # Question 4: Implementing a Function to Find Palindrome Numbers using Lambda and Filter
 
@@ -92,7 +92,7 @@ def find_palindrome_numbers(numbers):
     Test Case 3:
     # Additional test cases can be added here
     pass
-
+"""
 
 # Question 5: Implementing a Function to Calculate Factorial of Numbers using Map and Lambda
 
@@ -117,7 +117,7 @@ def calculate_factorial(numbers):
     # Additional test cases can be added here
     pass
 
-
+"""
 
 # Question 6: Implementing a Function to Find Square Roots of Numbers using Map and Lambda
 
@@ -141,7 +141,7 @@ def find_square_roots(numbers):
     Test Case 3:
     # Additional test cases can be added here
     pass
-
+"""
 
 # Question 7: Implementing a Function to Filter Odd Numbers and Square Even Numbers using Filter and Lambda
 
