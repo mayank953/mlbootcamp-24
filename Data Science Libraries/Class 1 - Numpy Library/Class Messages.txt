@@ -1,0 +1,68 @@
+will you show hypothesis testing using dataset as an example? or it is already done in the last class?
+
+To be honest, the way you are teaching is simply awesome with details and your notes are very good. I had missed initial sessions of data science and now revising with your notes and videos and I am able to grasp..thanks
+
+
+sir I had my university exams and was not able to join few lectures can u plz tell what is going on.
+
+sir, it's collection of entries that's why it's returning dtype=object?
+
+can't  a1['key'] for object type of dictionry elment
+
+the whole dictionary here becomes 0th index of array?
+
+37th line, when to use?
+
+zero-dim array  contains a single element but has no axes.?
+
+if my processor is of 32 bits, then also numpy will store int as int64 or store as int32?
+
+
+why not just use the in built one?
+
+
+sir, u told for even number
+
+
+i dont understand this last array of getting 1,3,5,7,9 
+
+
+
+np.arange(1,10).reshape(2,4) get an error?
+when multiply 2*4=8 only
+
+
+
+
+sir can we convert one data type to another data type
+
+
+sir, what kind of complex question can be solved using numpy?
+
+
+Can you have an array where an element is null? or a full array of null elements?
+
+
+sir one clarification when we write attributes we don't use parenthesis eg- np.shape but if call function we use parenthesis eg - np.arange()
+
+Is this correct sir ?
+
+
+row is horizontal so shouldn't it be 0 for row?
+
+
+
+can you stack arrays with different datatypes?
+
+
+it will split in 2 part randomly, into its original shape? can't there be different shape of array
+
+
+Can you insert something in between 2 arrays as a identifier to identify the arrays in the stacked one?
+
+
+0,2 and nan nan
+
+
+
+in dot product, first matrix column and second matrix row should be same. in multiplication, either row or column should be same. is it right?
