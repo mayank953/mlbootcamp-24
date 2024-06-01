@@ -1,3 +1,10 @@
 sir, extract all the numerical/int column and apply .mean()
 
 sir how to load data in jupyter from databases??
+
+if i want to apply groupy fuction on "age" column of titanic dataframe… what'll we get?/
+
+
+for concat inplace is true?
+
+you add by converting s3 as dataframe, we can also add this series as column as well
