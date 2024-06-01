@@ -1,0 +1,3 @@
+sir, extract all the numerical/int column and apply .mean()
+
+sir how to load data in jupyter from databases??
