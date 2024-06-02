@@ -15,3 +15,6 @@ sir, sns has pairplot and matplot  has subplot for  the same operation...?
 sir fig, remove krke dekhna ek baar is it still working
 
 Is object based approach more faster ? Or is it just used as it is more modular than individually using plt.subplots()?
+
+
+how we can place legend on top
