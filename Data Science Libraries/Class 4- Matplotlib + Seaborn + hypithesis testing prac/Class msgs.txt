@@ -1,0 +1,12 @@
+please explain, which plot is  for which kind of data...… if x and y both are numeric/continuous variable, we can plot scatter plot as well....
+
+
+
+sir histogram and bar gralh me diff kya h?
+
+bins = 30?
+
+sir sns se kaam ho rhe h to matplotlib ki kya jarurat h?
+
+
+sir, sns has pairplot and matplot  has subplot for  the same operation...?
