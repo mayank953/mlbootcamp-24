@@ -18,3 +18,8 @@ Is object based approach more faster ? Or is it just used as it is more modular 
 
 
 how we can place legend on top
+
+
+sir, we can also load processed data into powerbi/tableau for visualization
+
+.... using pd.to_csv("processed_data") and we can save into directory??
