@@ -1,0 +1,23 @@
+Sir is batch me naye hai thoda bahut stats aur python aata haai how to go forward?
+
+How to get certificate for this course.
+
+Could we adjust the schedule to have the timings from 1 to 4 for the remaining days? The current timing doesn't suit - 
+
+What kind of process we do in HT in real time projects?
+
+sir plz explain data and what and how we extract meaningful insight from this data
+
+sir how we know what datasets are provided by seaborn
+
+
+NameError                                 Traceback (most recent call last)
+Cell In[2], line 1
+----> 1 dataset = sns.load_dataset('tips')
+
+NameError: name 'sns' is not defined
+
+
+sns has only historic dataset or it has somehow access of live data as well?
+
+sir I have just one question I had my exams so  didn't watched last 12-13 classes and directly jumped on this session so what r u teaching in this class is explained in previous class if yes then I will not ask further questions and watch first previous videos? - ANUP BOTE

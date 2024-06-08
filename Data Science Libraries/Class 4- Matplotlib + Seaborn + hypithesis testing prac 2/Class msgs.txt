@@ -1,0 +1,25 @@
+please explain, which plot is  for which kind of data...… if x and y both are numeric/continuous variable, we can plot scatter plot as well....
+
+
+
+sir histogram and bar gralh me diff kya h?
+
+bins = 30?
+
+sir sns se kaam ho rhe h to matplotlib ki kya jarurat h?
+
+
+sir, sns has pairplot and matplot  has subplot for  the same operation...?
+
+
+sir fig, remove krke dekhna ek baar is it still working
+
+Is object based approach more faster ? Or is it just used as it is more modular than individually using plt.subplots()?
+
+
+how we can place legend on top
+
+
+sir, we can also load processed data into powerbi/tableau for visualization
+
+.... using pd.to_csv("processed_data") and we can save into directory??
