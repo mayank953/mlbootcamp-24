@@ -11,3 +11,24 @@ can't we write simply like this data["salesprice"].plot.bar()??? as we are takin
 we can extract using dtype=datetime ?   
 
 exit polls
+
+
+some intuition will go into play that this feature can impact the outcome? - Intuition is wrong word, domain knowledge or expertise which becomes intuition is helpful.
+
+Apart from that, researching and visualization/EDA is gonna help
+
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+
+yes..like a financial expert can tell about particular feature is important for target variable even when the correlation coefficient of that variable is small
+
+
+Can you say EDA is a bottomless pit or sorts? Like when do you know what you've done is sufficient?
+
+why you are putting f in starting while doing this?
+
+
+sir usually how much time is given for EDA during project roughly 3 days to analyse
+
+
+
+corporate data upload kar sakte hain chat gpt ko ?
