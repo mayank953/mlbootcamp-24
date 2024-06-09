@@ -1,0 +1,13 @@
+sir how to increase speed of seaborn module ?
+
+gpu helps with speed?
+
+
+Mayank yesterday i import the data but today while i am doing the same thing its getting me error of dataset is not defined
+
+
+can't we write simply like this data["salesprice"].plot.bar()??? as we are taking only one column
+
+we can extract using dtype=datetime ?   
+
+exit polls
