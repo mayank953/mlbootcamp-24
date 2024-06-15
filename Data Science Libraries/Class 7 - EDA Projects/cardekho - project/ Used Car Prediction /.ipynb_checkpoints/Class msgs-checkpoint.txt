@@ -1,0 +1,1 @@
+sir, in EDA we just need to extract necessary information.....right? then what is the need to plot each independent variable vs target variable... we can get the same using correlation matrix that can easily explain how each variable related with Target variable.

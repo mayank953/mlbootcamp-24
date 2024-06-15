@@ -1,0 +1,66 @@
+sir, in EDA we just need to extract necessary information.....right? then what is the need to plot each independent variable vs target variable... we can get the same using correlation matrix that can easily explain how each variable related with Target variable.
+
+
+# My Question : Study Maths for ML first or Do few more EDA projects. 
+
+# Machine Leaning Start
+
+Tried this with car example the price is not only related to age but also with model right?
+
+
+Hi Mayank, For the matplot,seaborn, its hard to remember the syntax, i watched record videos, how do we work the EDA distribution as there is lot of graph....is there any common template to follow the guidelines
+
+
+sir do you think is it good way to delete duplicate values in dataset and do analysis specially in this car set ?
+
+
+but eda will give wrong insights. will it not be a problem?
+
+two different  dealer can sell same car and in that case datas of one car =data of 2nd car... and manually we can say one is duplicate of other... but dropping here is not a good idea.
+
+can seller type  be a case of class imbalance here ? if that will be the target value to be predicted
+
+do we apply univariant analysis to all independent variable from the dataset?
+
+
+
+
+in last dataset we had 80+ column so, I split data with 10-10 colum in 4 subsdata and then plotted this using heatmap()… is it a good idea?
+
+
+
+only above 90% corr should we drop it?
+
+
+
+
+From the dataset 100+ columns, our business requrments depends on 20 columns, why do we focus univariant analysis for 100 columns.
+
+
+
+sir, correlation matrix can be wrong and most relevant column can have least correlation coefficient and in that case important feature can be missed???
+
+
+
+
+
+sir, correlation matrix can be wrong and most relevant column can have least correlation coefficient and in that case important feature can be missed???
+
+
+how would we decide that given features are not enough?
+need more features??
+
+
+
+we can also use df[feature].dtype=='float64. NO
+
+
+
+what changes would you have suggested yourself to make now that you look back at your oyo project?
+
+outlier se I remember a doubt, in normalization min max scale, will taking min and max values wont impact the model, as they possibly can be outliers?
+
+
+
+but what if mileage and selling price is not that correlated?
+
