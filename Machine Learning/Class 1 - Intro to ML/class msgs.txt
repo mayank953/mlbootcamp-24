@@ -11,3 +11,6 @@ why do we need to quantify categorical variable here?
 It means, OHE creates extra column as per entries.... and Label encoder just encode category into numbers
 
 is there a possibility that dropping that column can lead the model to take it as nan value?
+
+
+Yes.we just clone and run the same code as we didn't write and practice
