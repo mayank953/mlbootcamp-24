@@ -14,3 +14,12 @@ is there a possibility that dropping that column can lead the model to take it a
 
 
 Yes.we just clone and run the same code as we didn't write and practice
+
+
+
+what different  ML engineer and a data scientist does in industry?
+
+
+instead of making machine intelligent we should work on human brain to make it more intelligent 
+
+got it sir, in supervised we are providing input and output to train the model, but not output in unsupervised? like we are giving only input and model will decide about op?
