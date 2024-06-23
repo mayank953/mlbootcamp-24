@@ -10,3 +10,7 @@ but what if it contradicts? how is it handled? ->
 it means, y_pred is calculated/done on the basis of x_train……….. and we already have y_test. so we can compare how prediction value is approximately I==the result of y_test….  is it sir??
 
 it may be silly from my side but shouldn't it be x_pred instead of y?
+
+
+
+https://t.me/+DVVpKTL7NNBlMmVl -> 

@@ -1,0 +1,24 @@
+why correlation among features affect our model? what happens  in that case? 
+
+what happens in data preprocessing?
+
+my question is, encoding is being done in preprocessing step?
+
+do we always plot straight lines to segregate groups in regression? Can we plot polynomial lines to segregate groups?
+
+please explain mean squared error in above plot....and whern there will be the need of gradient descent.
+
+detail me please explain
+
+yes... how target variable changes with multiple variables.... as in cardekho we have 13 column.... hence the it has multivariable function Y(saleprice)=m_1X_1+-----------B_13X_13 +C Aand using inverse of matrix we can calculate coefficient of every column
+
+
+it's possible only when we have more than 1 variable....
+
+
+in chain rule eqn y=f(x)=g(x) ? or y=f(x)=g(u) ?
+
+Only one independent variable for linear regression?
+
+
+it means, we fit both x_train & y_train on model/object(linear regression model) so that hypothesis function learns a  prediction/pattern....
