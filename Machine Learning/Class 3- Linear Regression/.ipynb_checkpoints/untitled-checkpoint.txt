@@ -1,0 +1,1 @@
+but wont it take so many iterations to conclude before we come to minima and still will not be sure whether it is minima.
