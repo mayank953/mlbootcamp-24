@@ -1,0 +1,8 @@
+can we define learning rate as " time taken by any  algorithm/model to learn from training data"??
+
+
+learning time is important or accuracy? suppose a random ML Model take too much time to learn the train data but it gives 95% accuracy, should we go for such Model?
+
+
+
+sir, we are doing this because some data in ML model gives quadratic function and there we need to find optimized solution as a best fit line(we say in simple linear regression) .is it sir??
