@@ -1,0 +1,38 @@
+that's why feature engineering/selection is important...  some times we drop columns as we think its unnecessary on the basis of correlation but the expert of this field will suggest that columns/features are important to improve the accuracy.
+
+
+x_train takes random 80% data...and if we run multiple times and if we get variation in R^2 each times... that means, we are not getting perfect accuracy... and then we should go for adj R^2
+
+
+
+sir, for complex or data having large no of features, we should choose...sklearn instead of functional method or object-class method???
+
+
+
+if model learns perfectly from training data and gives accurate result only for y_train and we get y_train=y_train_predict… but model doesn't give exact result when apply on x_test to get y_test_pred..??? then it is underfitting?
+
+So are we purposely introducing error in training data to reduce variance in test data?
+
+how can we tell just by looking a line is good or bad without knowing the test data? what if test data falls on that line only?
+
+
+I'll re-phrase my earlier question, at what score/metric value can you consider putting a model into production?
+
+
+
+why not just eliminate the feature from the dataset itself than go for a roundabout way?
+
+
+so you can't really have a ball park figure in mind that you can aim for metrics as a benchmark?
+
+
+
+just one doupt. on LR m1, m2, m3, b also hyperparameter like learning rate
+
+
+elastic seems like a combo of ridge and lasso
+
+sir, in every regression problem whether the distribution is staright or aome polynomial kind of thing.. the loss function can always be MAE, ERROR?
+
+
+

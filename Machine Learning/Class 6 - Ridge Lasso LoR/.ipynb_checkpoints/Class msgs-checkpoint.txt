@@ -1,0 +1,8 @@
+that's why feature engineering/selection is important...  some times we drop columns as we think its unnecessary on the basis of correlation but the expert of this field will suggest that columns/features are important to improve the accuracy.
+
+
+x_train takes random 80% data...and if we run multiple times and if we get variation in R^2 each times... that means, we are not getting perfect accuracy... and then we should go for adj R^2
+
+
+
+
