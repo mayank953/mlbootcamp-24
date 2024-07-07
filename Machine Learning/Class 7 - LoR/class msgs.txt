@@ -1,0 +1,1 @@
+sir, is it possible if our model is doing perfect on x_test data as well but it doesn't work in real life datset?
