@@ -1,0 +1,4 @@
+I have a doubt. in previous class we have seen if learning hours is =>0.5 then pass if it is less then <0.5. so why we can not use MEAN, MEDIUM directly to predict yes and no
+
+
+sir... your video/audio is not stable... it's breaking in between
