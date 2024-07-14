@@ -2,3 +2,9 @@ I have a doubt. in previous class we have seen if learning hours is =>0.5 then p
 
 
 sir... your video/audio is not stable... it's breaking in between
+
+
+sir,there can be any specific algorithm for multi class classification? or it is the only way?
+
+
+feature should be independent.... nut in weather forecasting...each feature is somehow related with each other
