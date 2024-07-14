@@ -2,3 +2,13 @@ good afternoon sir yesterday class is very nice and i like the explanation of ba
 
 
 at present which is the most used algorithms in industry?
+
+what is the difference between these 2
+
+
+sir my idea  have to find the distances of the newpoint and present and select the best lower distance based on the k is it true?
+
+R is also randomly selected and increase or decrease it based on the accuracy... ??
+
+
+will not the radius vala be more accurate? because its taking points in closest proximity?
