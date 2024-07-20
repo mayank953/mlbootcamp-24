@@ -1,0 +1,9 @@
+https://t.me/+DVVpKTL7NNBlMmVl
+
+
+outlook is like parent leaf...it has everything like, it can say about other 3 as well
+
+in that case multicollinearity matters … I,e how much one feature depends on other features...?
+
+
+, outlook as parent node here in this data. it is clear coz it is small data and w can count no of Y 7 NO but in but in any other dataset where feature is not much clear and we can't calculate attributes of target column.... then how to selct parent node..
