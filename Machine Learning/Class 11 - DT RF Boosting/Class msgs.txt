@@ -1,0 +1,23 @@
+sir may b silly question but
+itne saare algo hain , kaun si sceanrio me kaun sa best hain experiment karte rehna hoga ?
+or is dere a way we can get some thumbrule ?
+
+
+if our data is minimal we can try out multiple algos but if data is huge wont it take much time to experiment different algo as training time will be more ?
+
+
+https://www.kaggle.com/competitions/titanic/code?competitionId=3136&searchQuery=Linear+Regression&excludeNonAccessedDatasources=true
+
+
+
+
+Competition Link = https://www.kaggle.com/competitions/st-2-ml-bootcamp/code
+
+
+
+Code to Read the Data :- 
+
+import pandas as pd
+
+train = pd.read_csv('/kaggle/input/st-2-ml-bootcamp/train.csv')
+test = pd.read_csv('/kaggle/input/st-2-ml-bootcamp/test.csv')
