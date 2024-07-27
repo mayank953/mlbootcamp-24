@@ -1,0 +1,10 @@
+it's mostly for multi class ? or these can be used in binary as well for boosting the accuracy?
+
+
+if we drop data/feature during data cleaning and we loose the important information
+
+
+we are training our model with test data that is data lekakge
+
+
+sir for spaceship I have taken x train and y train from train.csv and xtest from test.csv. is my understanding correct
