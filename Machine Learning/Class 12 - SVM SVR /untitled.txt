@@ -1,0 +1,4 @@
+outliers would already have been dealt with before fitting the algo, so cluster observations crossing over each other shouldn't matter, right?
+
+
+for 2 feature the hyperplane is line plane for more than 3 feature.... but, the error should be minimized in both the case..here, we have to see classification and marginal and then decide..
