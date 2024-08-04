@@ -1,0 +1,14 @@
+one doubt , if a new category is introduced and we fix our clusters to 3 , how will model behave inthatscenario
+
+if i choose iteration=300, and it attained its centre point after 100 iteration, then it will stop there or it will keep moving in other side, and again it will move away from its centre point????
+
+
+sir here how to finish first cluster and going to second cluster
+
+after creating a circle with epsilon radius, if we get no of points present inside >= min_points, do we assign red colour to each and every points inside the circle or only to the centre point?
+
+
+https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
+
+
+This is what i want to say, .........Unsupervised learning is for finding patterns without predefined labels. and one method like, K-Means, is a technique  to group similar data points together/segmentation, to understand and analyze datasets.
