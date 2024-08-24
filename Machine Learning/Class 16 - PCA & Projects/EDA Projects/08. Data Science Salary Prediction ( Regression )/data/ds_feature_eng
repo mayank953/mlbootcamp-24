@@ -1,0 +1,608 @@
+work_year,experience_level,employment_type,employee_residence,remote_ratio,company_location,company_size,Updated_Job_Title,salary
+2020,MI,Full-time,DE,0,DE,L,Data Scientist,282298.5077976287
+2020,SE,Full-time,Others,0,Others,S,Machine Learning Engineer,508303.3460293138
+2020,SE,Full-time,GB,50,GB,M,Data Engineer,331608.78241081286
+2020,MI,Full-time,Others,0,Others,S,Data Analyst,130268.2510775479
+2020,SE,Full-time,US,50,US,L,Machine Learning Engineer,389306.8224764528
+2020,EN,Full-time,US,100,US,L,Data Analyst,267369.75735875254
+2020,SE,Full-time,US,100,US,S,Manager,437233.4437779978
+2020,MI,Full-time,Others,50,Others,L,Data Scientist,182411.73871748964
+2020,MI,Full-time,US,100,US,L,Data Analyst,369399.01417192357
+2020,SE,Full-time,Others,50,Others,S,Manager,355398.1964952432
+2020,EN,Full-time,Others,0,Others,S,Data Scientist,222944.27396636954
+2020,MI,Full-time,IN,0,IN,L,Data Scientist,195618.4292230333
+2020,EN,Full-time,Others,0,Others,M,Data Scientist,194091.29239022773
+2020,MI,Full-time,US,100,US,L,Manager,295248.70819243125
+2020,MI,Full-time,US,100,US,L,Data Analyst,291697.7048192592
+2020,MI,Full-time,Others,50,Others,L,Data Analyst,73381.9373870899
+2020,EN,Full-time,Others,100,Others,S,Data Engineer,198845.56129619482
+2020,SE,Full-time,Others,100,GB,S,Data Engineer,339293.93080547435
+2020,EN,Full-time,IN,50,IN,M,Data Scientist,58512.334610604164
+2020,MI,Full-time,Others,100,US,M,Manager,233758.21279053926
+2020,MI,Full-time,Others,0,Others,M,Machine Learning Engineer,203152.40532322222
+2020,MI,Full-time,IN,100,IN,L,Data Analyst,61035.55080432814
+2020,SE,Full-time,Others,50,Others,L,Data Engineer,214689.09889825093
+2020,MI,Full-time,US,0,US,M,Data Analyst,313995.0563695183
+2020,MI,Full-time,Others,0,Others,L,Manager,340729.80366833875
+2020,EX,Full-time,US,100,US,L,Manager,564498.556923839
+2020,EN,Full-time,Others,50,Others,L,Data Scientist,199668.2173151083
+2020,SE,Full-time,Others,0,Others,S,Data Engineer,175901.31432331534
+2020,EN,Contract,US,100,US,L,Data Analyst,317272.0623658748
+2020,SE,Full-time,CA,50,CA,L,Manager,343875.67770166125
+2020,MI,Full-time,DE,100,DE,S,Manager,241095.3292854272
+2020,EN,Full-time,US,100,US,L,Data Engineer,263413.3028151647
+2020,SE,Full-time,Others,100,US,L,Data Scientist,260258.88987599956
+2020,MI,Full-time,US,0,US,M,Data Scientist,655632.9244868185
+2020,MI,Full-time,Others,50,Others,L,Data Analyst,211867.94900524535
+2020,MI,Full-time,Others,50,Others,L,Data Engineer,271516.175669964
+2020,MI,Full-time,US,100,US,L,Data Scientist,322117.8507819702
+2020,EN,Full-time,US,50,US,L,Machine Learning Engineer,498924.1604115474
+2020,EN,Full-time,Others,100,Others,S,Data Analyst,84830.97743771688
+2020,EN,Full-time,US,100,US,S,Machine Learning Engineer,373480.49548159284
+2020,MI,Full-time,Others,100,US,S,Data Scientist,209364.85106387766
+2020,EX,Full-time,Others,50,Others,L,Manager,282298.5077976287
+2020,MI,Full-time,Others,0,Others,M,Machine Learning Engineer,220226.09233945885
+2020,MI,Full-time,US,100,US,L,Data Engineer,326883.21727228
+2020,MI,Full-time,GB,50,GB,L,Data Engineer,337513.9905907485
+2020,EN,Part-time,DE,100,DE,S,Machine Learning Engineer,113701.62447008578
+2020,MI,Full-time,GB,100,GB,S,Data Scientist,276919.19154855004
+2020,SE,Full-time,US,100,US,L,Data Engineer,434987.99691043113
+2020,MI,Full-time,US,100,US,L,Data Scientist,325303.4817339019
+2020,MI,Full-time,Others,50,Others,L,Data Engineer,263690.3079491475
+2020,EN,Full-time,IN,0,IN,S,Data Analyst,61035.55080432814
+2020,EN,Full-time,US,100,US,L,Data Analyst,302214.0083583561
+2020,EN,Full-time,Others,50,Others,S,Data Scientist,209707.34510085627
+2020,EN,Full-time,Others,100,DE,L,Data Engineer,230901.16770061478
+2020,SE,Freelance,Others,100,US,S,Machine Learning Engineer,242614.53940558922
+2020,SE,Full-time,DE,100,DE,M,Data Scientist,387060.55355962954
+2020,MI,Full-time,Others,100,Others,M,Data Scientist,190974.30129613855
+2020,MI,Full-time,US,100,US,M,Data Scientist,345205.42638955964
+2020,SE,Full-time,US,50,US,L,Data Scientist,348152.6549325881
+2020,MI,Full-time,US,100,US,M,Data Scientist,373953.2755151636
+2020,MI,Full-time,US,100,US,L,Data Engineer,333117.807965056
+2020,MI,Full-time,Others,100,US,M,Data Engineer,363594.9153173669
+2020,EN,Part-time,Others,50,Others,S,Data Scientist,136625.74150934626
+2020,SE,Full-time,US,100,US,L,Data Scientist,629798.0866848616
+2020,SE,Full-time,Others,100,Others,S,Machine Learning Engineer,209006.65738398943
+2020,EN,Full-time,DE,50,DE,S,Data Scientist,248464.23284721465
+2020,EN,Full-time,DE,0,DE,S,Data Scientist,218029.07794872887
+2020,SE,Full-time,US,100,US,M,Manager,437457.2124176168
+2020,EN,Full-time,US,100,US,S,Data Scientist,325303.4817339019
+2020,SE,Full-time,Others,0,Others,S,Data Scientist,302621.18129839445
+2020,MI,Full-time,Others,50,Others,S,Data Scientist,248464.23284721465
+2020,MI,Full-time,Others,50,Others,S,Data Scientist,200187.6246285961
+2021,EN,Full-time,GB,50,GB,L,Data Scientist,287242.5340337754
+2021,EX,Full-time,IN,100,US,L,Data Analyst,389306.8224764528
+2021,EX,Full-time,US,100,US,L,Manager,484419.9443395714
+2021,SE,Full-time,Others,50,Others,L,Data Scientist,227330.86570566596
+2021,MI,Full-time,US,100,US,M,Data Analyst,317272.0623658748
+2021,MI,Part-time,IN,50,IN,M,Others,56400.08569022864
+2021,MI,Contract,US,100,US,L,Machine Learning Engineer,517466.3568481045
+2021,EN,Full-time,US,100,US,M,Data Analyst,282607.5898787061
+2021,SE,Full-time,DE,100,DE,L,Data Analyst,281118.0488528438
+2021,MI,Full-time,US,100,US,L,Data Engineer,376172.7213757469
+2021,MI,Full-time,GB,50,CA,L,Data Scientist,229746.4081195664
+2021,MI,Full-time,Others,100,Others,S,Machine Learning Engineer,213166.80298358426
+2021,EX,Full-time,Others,100,Others,L,Manager,393993.80285688135
+2021,MI,Full-time,Others,100,Others,L,Data Engineer,160264.34462693124
+2021,EN,Full-time,Others,50,Others,M,Data Analyst,240655.38821781887
+2021,MI,Full-time,US,100,US,L,Data Analyst,333117.807965056
+2021,SE,Full-time,US,100,US,L,Manager,414106.8573405301
+2021,SE,Full-time,Others,100,US,S,Data Analyst,282607.5898787061
+2021,SE,Full-time,Others,100,Others,L,Data Analyst,298150.504274074
+2021,EN,Full-time,DE,100,DE,S,Data Scientist,276682.75792778423
+2021,MI,Full-time,IN,100,IN,L,Manager,128740.52801507896
+2021,SE,Full-time,US,0,US,L,Manager,522865.574856739
+2021,EN,Full-time,IN,50,IN,L,Data Scientist,164352.79171818282
+2021,MI,Full-time,Others,50,Others,L,Data Engineer,299265.05943310587
+2021,EN,Part-time,Others,100,US,S,Data Scientist,95252.99314904455
+2021,MI,Full-time,US,100,US,L,Data Analyst,655632.9244868185
+2021,EN,Full-time,US,100,US,M,Others,263413.3028151647
+2021,MI,Full-time,DE,100,US,S,Others,310255.63464674324
+2021,MI,Full-time,US,0,US,L,Data Analyst,273190.5144635591
+2021,SE,Full-time,US,100,US,L,Data Engineer,389306.8224764528
+2021,MI,Full-time,Others,50,US,L,Data Analyst,183914.10935308036
+2021,MI,Full-time,US,0,US,L,Data Analyst,246920.32479883876
+2021,MI,Full-time,US,0,US,L,Data Scientist,269324.88826830505
+2021,MI,Full-time,GB,50,GB,L,Data Analyst,223412.5885503323
+2021,MI,Full-time,CA,100,CA,L,Data Scientist,434358.980788926
+2021,SE,Full-time,US,100,US,S,Data Engineer,340729.80366833875
+2021,SE,Full-time,US,100,US,M,Data Engineer,389306.8224764528
+2021,EN,Full-time,IN,100,IN,L,Data Engineer,166486.4694854348
+2021,SE,Full-time,DE,50,DE,L,Machine Learning Engineer,308274.53574047115
+2021,SE,Full-time,GB,100,GB,M,Manager,338430.2863268091
+2021,SE,Full-time,GB,100,GB,S,Manager,322374.00253805274
+2021,EN,Part-time,Others,100,US,M,Data Scientist,95252.99314904455
+2021,MI,Full-time,Others,100,Others,L,Data Engineer,208432.79414432312
+2021,EN,Full-time,US,100,US,L,Machine Learning Engineer,474437.658262856
+2021,MI,Full-time,Others,100,Others,L,Data Scientist,219794.20854498394
+2021,MI,Full-time,Others,100,Others,M,Data Engineer,194830.62189027685
+2021,EN,Full-time,US,100,US,S,Data Analyst,300489.2915510512
+2021,MI,Full-time,US,100,US,L,Data Engineer,448254.46048611734
+2021,MI,Full-time,Others,50,Others,M,Data Engineer,242614.53940558922
+2021,SE,Full-time,US,100,US,M,Data Engineer,448254.46048611734
+2021,EN,Full-time,US,100,US,M,Data Analyst,219794.20854498394
+2021,EN,Full-time,GB,0,GB,L,Data Scientist,333174.8626470143
+2021,EN,Part-time,Others,50,Others,M,Data Analyst,86742.71747066478
+2021,MI,Full-time,US,100,US,L,Data Scientist,390591.5967130081
+2021,SE,Full-time,US,50,US,S,Machine Learning Engineer,348152.6549325881
+2021,MI,Full-time,IN,0,IN,S,Data Scientist,81886.39309880135
+2021,EN,Full-time,IN,100,IN,S,Machine Learning Engineer,130268.2510775479
+2021,SE,Full-time,IN,50,IN,L,Manager,195857.9414409926
+2021,EN,Full-time,Others,50,Others,S,Machine Learning Engineer,317272.0623658748
+2021,EN,Full-time,Others,50,Others,M,Data Scientist,218942.3536210844
+2021,MI,Full-time,Others,100,US,M,Machine Learning Engineer,189935.50365332857
+2021,SE,Full-time,Others,100,Others,M,Machine Learning Engineer,145101.6793669719
+2021,EN,Full-time,US,0,US,S,Data Scientist,317272.0623658748
+2021,MI,Full-time,US,100,US,M,Data Analyst,300489.2915510512
+2021,MI,Full-time,Others,50,Others,S,Machine Learning Engineer,250543.14469176458
+2021,MI,Full-time,Others,50,Others,S,Machine Learning Engineer,277685.6385244032
+2021,SE,Full-time,US,0,US,L,Data Scientist,469346.23768783937
+2021,EN,Full-time,US,100,US,M,Data Scientist,282607.5898787061
+2021,MI,Full-time,US,100,US,L,Data Analyst,369399.01417192357
+2021,SE,Full-time,US,0,US,L,Manager,489315.2135605431
+2021,SE,Full-time,US,0,US,L,Manager,389306.8224764528
+2021,MI,Full-time,US,100,US,S,Data Scientist,287191.64089022734
+2021,MI,Full-time,US,100,US,L,Data Engineer,317272.0623658748
+2021,SE,Full-time,Others,50,Others,M,Machine Learning Engineer,287634.8100986962
+2021,MI,Full-time,Others,50,Others,M,Data Scientist,248300.95697396056
+2021,MI,Full-time,US,100,US,L,Data Engineer,300489.2915510512
+2021,SE,Full-time,US,100,US,L,Manager,393146.21193601313
+2021,SE,Full-time,Others,100,US,S,Data Engineer,401935.6669734833
+2021,SE,Full-time,Others,0,Others,S,Manager,411707.19064736454
+2021,MI,Full-time,US,100,US,M,Data Scientist,389306.8224764528
+2021,MI,Full-time,CA,100,CA,L,Data Scientist,274670.9397676366
+2021,EN,Full-time,Others,100,Others,L,Data Scientist,102062.07136277102
+2021,SE,Full-time,US,100,US,L,Manager,381490.37545437214
+2021,SE,Full-time,CA,50,CA,L,Data Engineer,358562.6191775545
+2021,MI,Full-time,Others,100,Others,M,Data Scientist,346769.5601559586
+2021,MI,Full-time,US,50,US,L,Machine Learning Engineer,637423.6455523401
+2021,SE,Full-time,US,100,US,M,Manager,348152.6549325881
+2021,EN,Full-time,US,100,US,S,Machine Learning Engineer,355398.1964952432
+2021,EX,Full-time,Others,50,Others,L,Manager,479461.4730824025
+2021,EX,Full-time,Others,0,Others,M,Manager,291697.7048192592
+2021,MI,Full-time,Others,50,Others,L,Data Engineer,159916.93017955578
+2021,EN,Full-time,DE,50,DE,L,Data Scientist,250795.18896905013
+2021,EX,Full-time,DE,50,DE,M,Manager,362513.4892677072
+2021,SE,Full-time,US,100,US,L,Others,408075.781032732
+2021,EN,Full-time,US,100,US,L,Data Engineer,282607.5898787061
+2021,EX,Full-time,US,0,US,L,Manager,498924.1604115474
+2021,EN,Full-time,US,50,US,S,Data Analyst,231490.03319223507
+2021,MI,Full-time,US,100,US,L,Data Engineer,389306.8224764528
+2021,MI,Full-time,US,100,US,L,Data Engineer,414106.8573405301
+2021,MI,Full-time,GB,100,GB,L,Data Engineer,287242.5340337754
+2021,EN,Full-time,US,100,US,S,Data Analyst,242614.53940558922
+2021,SE,Full-time,US,100,US,L,Data Scientist,484419.9443395714
+2021,SE,Full-time,Others,50,Others,L,Data Scientist,244253.50104284784
+2021,SE,Full-time,US,100,US,L,Manager,418856.5048174219
+2021,MI,Full-time,Others,0,Others,S,Data Scientist,35761.67216247605
+2021,MI,Full-time,Others,100,Others,L,Data Scientist,194422.0229603552
+2021,EN,Full-time,US,50,US,S,Machine Learning Engineer,284450.7979640475
+2021,MI,Full-time,IN,100,US,S,Data Scientist,58315.924390459404
+2021,MI,Full-time,IN,0,IN,L,Data Engineer,140104.48863678495
+2021,MI,Full-time,DE,50,DE,L,Data Scientist,301756.29215713625
+2021,MI,Full-time,Others,0,US,L,Data Engineer,152060.05470971786
+2021,SE,Full-time,GB,50,GB,L,Data Analyst,246698.33880857276
+2021,MI,Freelance,Others,50,Others,M,Machine Learning Engineer,95252.99314904455
+2021,MI,Full-time,Others,100,Others,M,Data Engineer,45659.3980101967
+2021,SE,Full-time,Others,100,GB,M,Data Analyst,219794.20854498394
+2021,EX,Full-time,Others,100,Others,S,Data Scientist,262896.33404767216
+2021,SE,Full-time,Others,50,GB,S,Data Engineer,276682.75792778423
+2021,MI,Full-time,Others,50,Others,S,Machine Learning Engineer,271265.04029385495
+2021,SE,Full-time,US,100,Others,L,Manager,391871.37647531484
+2021,EN,Full-time,Others,50,Others,M,Machine Learning Engineer,137277.74128396445
+2021,MI,Full-time,Others,0,Others,S,Data Engineer,122286.74879999872
+2021,SE,Full-time,US,100,US,L,Manager,418856.5048174219
+2021,SE,Full-time,CA,50,CA,L,Data Scientist,310867.90024132904
+2021,MI,Full-time,US,50,US,L,Data Scientist,385422.01852205786
+2021,EN,Full-time,Others,100,Others,S,Data Analyst,80797.62049992298
+2021,SE,Full-time,IN,100,IN,L,Machine Learning Engineer,146309.1868255955
+2021,SE,Full-time,IN,50,US,L,Manager,229415.3946449283
+2021,EN,Full-time,US,100,US,S,Data Scientist,300489.2915510512
+2021,MI,Full-time,DE,50,Others,M,Data Scientist,245780.45231567437
+2021,SE,Full-time,US,100,US,M,Machine Learning Engineer,442786.1184149528
+2021,MI,Full-time,Others,100,Others,L,Data Scientist,188336.34383090097
+2021,SE,Full-time,Others,100,US,S,Data Scientist,219794.20854498394
+2021,MI,Full-time,US,100,US,L,Data Scientist,401935.6669734833
+2021,MI,Full-time,Others,0,Others,S,Data Scientist,99676.18855268249
+2021,SE,Full-time,US,100,US,L,Machine Learning Engineer,448254.46048611734
+2021,SE,Full-time,US,0,US,M,Data Engineer,408075.781032732
+2021,MI,Freelance,Others,0,US,L,Data Engineer,130268.2510775479
+2021,SE,Full-time,US,0,US,L,Manager,348152.6549325881
+2021,MI,Full-time,Others,50,Others,L,Machine Learning Engineer,147992.8082262088
+2021,MI,Full-time,Others,50,Others,S,Data Scientist,235417.85938789626
+2021,MI,Full-time,Others,50,GB,S,Data Engineer,255351.52388231878
+2021,EN,Full-time,IN,0,Others,L,Data Engineer,59730.57505879056
+2021,EN,Full-time,DE,50,DE,M,Machine Learning Engineer,147992.8082262088
+2021,SE,Full-time,US,100,US,L,Data Engineer,431592.99206646776
+2021,EN,Part-time,Others,50,Others,S,Machine Learning Engineer,160695.23049060363
+2021,MI,Full-time,DE,50,DE,L,Data Scientist,301756.29215713625
+2021,MI,Full-time,Others,100,Others,M,Machine Learning Engineer,298150.504274074
+2021,SE,Full-time,US,100,US,L,Manager,376172.7213757469
+2021,MI,Full-time,Others,100,Others,L,Machine Learning Engineer,211464.027390854
+2021,MI,Full-time,GB,50,GB,L,Data Scientist,343592.94310260937
+2021,MI,Full-time,IN,0,IN,M,Data Scientist,176783.71247664094
+2021,MI,Full-time,GB,50,GB,L,Data Scientist,234335.2744294984
+2021,SE,Full-time,US,100,CA,L,Machine Learning Engineer,474437.658262856
+2021,EX,Contract,US,100,US,S,Data Scientist,632585.4692060001
+2021,SE,Full-time,CA,100,CA,S,Data Scientist,296547.3043222989
+2021,MI,Full-time,DE,50,DE,L,Data Scientist,298150.504274074
+2021,SE,Full-time,US,0,US,L,Data Scientist,369399.01417192357
+2021,SE,Full-time,CA,100,CA,M,Data Analyst,266949.38397218485
+2021,EN,Full-time,IN,100,IN,L,Data Engineer,114836.69877355093
+2021,SE,Full-time,US,100,US,S,Machine Learning Engineer,504578.3435297211
+2021,SE,Full-time,US,100,US,L,Manager,448254.46048611734
+2021,SE,Full-time,US,100,US,L,Data Analyst,448254.46048611734
+2021,MI,Full-time,US,100,US,L,Data Engineer,425861.08335683914
+2021,MI,Full-time,US,0,US,S,Manager,333117.807965056
+2021,MI,Full-time,CA,100,CA,M,Data Scientist,250751.10025234628
+2021,MI,Full-time,Others,100,Others,M,Data Scientist,211992.46260797413
+2021,EN,Full-time,Others,0,Others,M,Data Scientist,45659.3980101967
+2021,EN,Full-time,IN,50,IN,M,Data Engineer,136506.22968257856
+2021,SE,Full-time,CA,100,CA,L,Data Scientist,323222.47403894964
+2021,MI,Full-time,US,100,US,L,Data Analyst,282607.5898787061
+2021,MI,Full-time,US,100,US,L,Data Engineer,333117.807965056
+2021,SE,Full-time,US,100,US,L,Data Scientist,408075.781032732
+2021,EN,Full-time,IN,100,Others,S,Data Scientist,122503.826025584
+2021,MI,Full-time,GB,50,GB,L,Data Engineer,267785.5116068243
+2021,EN,Full-time,Others,50,Others,L,Data Scientist,185007.76136065795
+2021,MI,Full-time,Others,0,Others,M,Data Engineer,95766.50741931472
+2021,SE,Full-time,GB,50,GB,L,Data Engineer,311149.3931072549
+2021,SE,Full-time,US,100,US,M,Data Analyst,414106.8573405301
+2021,MI,Full-time,US,50,US,L,Data Scientist,340729.80366833875
+2021,EN,Full-time,US,100,US,S,Data Scientist,300489.2915510512
+2021,EX,Full-time,US,100,US,L,Data Engineer,746073.274201114
+2021,EN,Full-time,IN,100,IN,M,Data Scientist,160014.40487726667
+2021,MI,Full-time,US,100,US,L,Data Analyst,305631.3156057143
+2021,SE,Full-time,CA,50,CA,M,Data Engineer,316787.81692290993
+2021,MI,Full-time,US,100,US,L,Data Engineer,448254.46048611734
+2021,SE,Full-time,DE,100,DE,M,Data Scientist,418575.7227332232
+2021,SE,Full-time,US,50,US,L,Machine Learning Engineer,431592.99206646776
+2021,EX,Full-time,DE,0,DE,L,Manager,378637.73255457444
+2021,MI,Full-time,US,50,US,L,Data Scientist,362477.0972293531
+2021,SE,Full-time,DE,50,DE,L,Data Analyst,250795.18896905013
+2021,MI,Full-time,IN,100,IN,S,Data Scientist,117724.24715990566
+2021,SE,Full-time,IN,0,IN,L,Machine Learning Engineer,255851.63815793034
+2021,MI,Full-time,Others,100,DE,S,Data Scientist,150444.15315355672
+2021,SE,Full-time,Others,50,US,S,Manager,401935.6669734833
+2021,MI,Full-time,US,0,US,M,Data Engineer,305885.91635299684
+2021,MI,Full-time,US,0,US,M,Data Engineer,335842.51782749785
+2021,MI,Full-time,Others,100,Others,M,Data Engineer,158765.9211355506
+2021,EN,Full-time,DE,50,DE,M,Data Engineer,253263.8668399846
+2021,EN,Full-time,US,100,US,L,Data Engineer,268349.21438464307
+2021,SE,Full-time,Others,0,Others,M,Machine Learning Engineer,125958.71318630746
+2021,EN,Full-time,DE,0,DE,L,Data Scientist,276682.75792778423
+2021,EN,Full-time,Others,100,DE,S,Machine Learning Engineer,291697.7048192592
+2021,SE,Full-time,Others,50,Others,M,Data Scientist,278288.1384157293
+2021,EN,Full-time,US,100,US,M,Data Scientist,317272.0623658748
+2021,EN,Full-time,US,50,US,L,Data Scientist,238228.54440718936
+2021,SE,Full-time,Others,100,Others,L,Data Scientist,231490.03319223507
+2021,SE,Full-time,Others,50,Others,L,Data Scientist,130931.65264332655
+2021,EN,Full-time,Others,100,Others,L,Data Analyst,240655.38821781887
+2021,MI,Full-time,US,100,US,L,Data Engineer,336186.114803509
+2021,EN,Full-time,Others,0,Others,L,Data Scientist,317272.0623658748
+2021,MI,Part-time,Others,100,Others,L,Data Engineer,262896.33404767216
+2021,SE,Contract,US,100,US,M,Data Scientist,325303.4817339019
+2021,MI,Full-time,Others,50,Others,L,Data Scientist,263411.3088574326
+2021,SE,Full-time,IN,50,IN,L,Manager,308444.36846361984
+2021,SE,Full-time,Others,100,Others,L,Manager,321859.8672324059
+2021,MI,Full-time,US,50,US,L,Data Scientist,331571.57728207053
+2021,MI,Full-time,Others,50,Others,L,Machine Learning Engineer,222334.93433037528
+2022,SE,Full-time,US,100,US,M,Data Engineer,369399.01417192357
+2022,SE,Full-time,US,100,US,M,Data Analyst,395681.2465715519
+2022,SE,Full-time,US,100,US,M,Data Analyst,349031.26142462465
+2022,MI,Full-time,US,0,US,M,Data Scientist,362477.0972293531
+2022,MI,Full-time,US,0,US,M,Data Scientist,300489.2915510512
+2022,MI,Full-time,US,100,US,M,Data Engineer,414106.8573405301
+2022,MI,Full-time,US,100,US,M,Data Engineer,389306.8224764528
+2022,SE,Full-time,US,100,US,M,Data Analyst,320672.7204191074
+2022,SE,Full-time,US,100,US,M,Data Analyst,291518.9159682093
+2022,SE,Full-time,US,100,US,M,Data Scientist,371609.524665352
+2022,SE,Full-time,US,100,US,M,Data Scientist,316227.540375381
+2022,SE,Full-time,GB,0,GB,M,Data Scientist,344892.81045668863
+2022,SE,Full-time,GB,0,GB,M,Data Scientist,324831.04789737886
+2022,SE,Full-time,US,100,US,M,Data Scientist,384116.7476253207
+2022,SE,Full-time,US,100,US,M,Data Scientist,352520.550035106
+2022,EN,Full-time,GB,100,GB,M,Data Engineer,225369.76486502588
+2022,SE,Full-time,US,0,US,M,Data Analyst,315638.3013911815
+2022,SE,Full-time,US,0,US,M,Data Analyst,342229.1085852575
+2022,MI,Full-time,US,0,US,M,Data Analyst,327292.5423837541
+2022,MI,Full-time,US,0,US,M,Data Analyst,357538.90627762955
+2022,EX,Full-time,US,100,US,M,Data Engineer,491256.08288674994
+2022,EX,Full-time,US,100,US,M,Data Engineer,448254.46048611734
+2022,MI,Full-time,GB,0,GB,M,Data Scientist,254145.391795042
+2022,MI,Full-time,GB,0,GB,M,Data Scientist,192311.78446709752
+2022,MI,Full-time,GB,0,GB,M,Data Engineer,279866.8110221604
+2022,MI,Full-time,GB,0,GB,M,Data Engineer,225369.76486502588
+2022,SE,Full-time,US,100,US,M,Data Scientist,408343.4046106514
+2022,EN,Full-time,GB,100,GB,M,Data Engineer,209483.275325004
+2022,SE,Full-time,US,100,US,M,Data Scientist,348387.1987158079
+2022,SE,Full-time,US,100,US,M,Data Analyst,301042.38330374483
+2022,SE,Full-time,US,0,US,M,Data Engineer,428096.16768812796
+2022,SE,Full-time,US,0,US,M,Data Engineer,365707.83625555004
+2022,SE,Full-time,US,0,US,M,Data Engineer,469458.99296627595
+2022,SE,Full-time,US,0,US,M,Data Engineer,402034.79402987566
+2022,SE,Full-time,US,0,US,L,Data Scientist,425861.08335683914
+2022,SE,Full-time,US,0,US,L,Data Scientist,348152.6549325881
+2022,SE,Full-time,US,100,US,M,Data Analyst,354235.9975478336
+2022,EX,Full-time,US,100,US,M,Data Analyst,362477.0972293531
+2022,EX,Full-time,US,100,US,M,Data Analyst,333117.807965056
+2022,SE,Full-time,US,100,US,M,Data Analyst,414106.8573405301
+2022,MI,Full-time,US,100,US,M,Data Analyst,341480.39509727043
+2022,SE,Full-time,US,100,US,M,Data Analyst,337556.5304246126
+2022,SE,Full-time,US,100,US,M,Data Analyst,301042.38330374483
+2022,SE,Full-time,US,100,US,M,Data Analyst,337556.5304246126
+2022,SE,Full-time,US,100,US,M,Data Analyst,301042.38330374483
+2022,SE,Full-time,US,100,US,M,Data Engineer,408562.21268896526
+2022,SE,Full-time,US,100,US,M,Data Engineer,365707.83625555004
+2022,MI,Full-time,US,100,US,M,Data Analyst,410501.01441927464
+2022,SE,Full-time,US,100,US,M,Data Engineer,493090.95807821694
+2022,SE,Full-time,US,100,US,M,Data Analyst,371582.328089234
+2022,SE,Full-time,US,100,US,M,Data Analyst,332005.3436222827
+2022,SE,Full-time,US,100,US,M,Data Engineer,360898.3606111983
+2022,SE,Full-time,US,100,US,M,Data Engineer,306817.45563834807
+2022,EX,Full-time,US,100,US,M,Manager,473424.8572277106
+2022,EX,Full-time,US,100,US,M,Manager,411556.6513655604
+2022,EX,Full-time,US,100,US,M,Data Analyst,420033.7793312047
+2022,SE,Full-time,US,100,US,M,Data Engineer,397695.4356270417
+2022,SE,Full-time,US,0,US,M,Data Engineer,331261.3507003229
+2022,SE,Full-time,US,0,US,M,Data Scientist,309928.0983163524
+2022,SE,Full-time,US,0,US,L,Data Engineer,337708.4086557789
+2022,SE,Full-time,US,100,US,M,Data Analyst,369399.01417192357
+2022,SE,Full-time,US,100,US,M,Manager,403594.6702355455
+2022,SE,Full-time,US,100,US,M,Manager,372317.17691734247
+2022,SE,Full-time,US,100,US,M,Data Scientist,410501.01441927464
+2022,SE,Full-time,US,100,US,M,Data Scientist,352520.550035106
+2022,SE,Full-time,GB,0,GB,M,Data Engineer,279866.8110221604
+2022,SE,Full-time,GB,0,GB,M,Data Engineer,254145.391795042
+2022,SE,Full-time,US,0,US,M,Data Scientist,389306.8224764528
+2022,SE,Full-time,US,100,US,M,Data Scientist,460528.82599177386
+2022,SE,Full-time,CA,100,CA,M,Data Engineer,439909.46485198225
+2022,SE,Full-time,CA,100,CA,M,Data Engineer,301697.73199587467
+2022,SE,Full-time,CA,100,CA,M,Data Analyst,362477.0972293531
+2022,SE,Full-time,CA,100,CA,M,Data Analyst,245422.1793380111
+2022,SE,Full-time,CA,100,CA,M,Data Analyst,362477.0972293531
+2022,SE,Full-time,CA,100,CA,M,Data Analyst,245422.1793380111
+2022,SE,Full-time,US,0,US,L,Data Engineer,401935.6669734833
+2022,SE,Full-time,US,100,US,M,Data Scientist,374290.5472473708
+2022,SE,Full-time,US,0,US,M,Data Engineer,370765.3458798024
+2022,MI,Full-time,US,0,US,S,Data Analyst,238228.54440718936
+2022,EX,Full-time,US,100,US,M,Data Analyst,369399.01417192357
+2022,SE,Full-time,US,100,US,M,Data Scientist,414106.8573405301
+2022,SE,Full-time,US,100,US,M,Data Scientist,352520.550035106
+2022,SE,Full-time,US,0,US,M,Machine Learning Engineer,436841.5106551303
+2022,SE,Full-time,US,0,US,M,Machine Learning Engineer,408070.9131974215
+2022,MI,Full-time,Others,0,Others,M,Others,231391.99460315815
+2022,MI,Full-time,Others,0,Others,M,Others,231391.99460315815
+2022,EX,Full-time,CA,100,CA,S,Manager,345482.21348372527
+2022,SE,Full-time,US,0,US,M,Data Analyst,365264.19218763977
+2022,SE,Full-time,US,100,US,M,Data Engineer,408562.21268896526
+2022,SE,Full-time,US,100,US,M,Data Engineer,457657.18519419327
+2022,SE,Full-time,US,100,US,M,Data Engineer,386462.4859636906
+2022,SE,Full-time,US,100,US,M,Data Engineer,372117.6724669457
+2022,SE,Full-time,US,100,US,M,Data Engineer,319818.2749208245
+2022,SE,Full-time,US,100,US,M,Data Analyst,360898.3606111983
+2022,SE,Full-time,US,100,US,M,Data Analyst,306817.45563834807
+2022,EX,Full-time,IN,50,IN,L,Manager,280823.96083808114
+2022,SE,Full-time,US,100,US,M,Data Engineer,365707.83625555004
+2022,EN,Full-time,GB,100,GB,L,Machine Learning Engineer,186864.8637158176
+2022,SE,Full-time,US,0,US,M,Data Analyst,406856.64403097867
+2022,SE,Full-time,US,100,US,M,Data Engineer,395681.2465715519
+2022,MI,Full-time,GB,0,GB,M,Machine Learning Engineer,354441.49552055233
+2022,MI,Full-time,GB,0,GB,M,Machine Learning Engineer,314255.3258752485
+2022,MI,Full-time,US,0,US,M,Data Scientist,348152.6549325881
+2022,SE,Full-time,US,100,US,M,Data Analyst,337556.5304246126
+2022,SE,Full-time,US,100,US,M,Data Analyst,301042.38330374483
+2022,SE,Full-time,US,100,US,M,Manager,382806.21843611926
+2022,SE,Full-time,US,100,US,M,Manager,325936.41031002905
+2022,MI,Full-time,Others,100,DE,M,Machine Learning Engineer,296887.63822990085
+2022,MI,Full-time,GB,0,GB,M,Data Engineer,344892.81045668863
+2022,SE,Full-time,US,100,US,L,Data Scientist,464496.52341121505
+2022,SE,Full-time,US,100,US,L,Data Scientist,399697.5316020957
+2022,SE,Full-time,US,100,US,L,Data Engineer,458000.84946949175
+2022,SE,Full-time,US,100,US,L,Data Engineer,395175.7874150541
+2022,SE,Full-time,US,0,US,M,Data Analyst,342130.38554965274
+2022,SE,Full-time,US,0,US,M,Data Analyst,285671.2462625026
+2022,SE,Full-time,US,100,US,M,Data Engineer,420033.7793312047
+2022,MI,Full-time,GB,0,GB,M,Data Engineer,314255.3258752485
+2022,MI,Full-time,US,0,US,S,Data Analyst,238228.54440718936
+2022,SE,Full-time,US,100,US,L,Data Engineer,429997.44088712294
+2022,MI,Full-time,GB,100,GB,M,Data Analyst,225369.76486502588
+2022,SE,Full-time,US,100,US,M,Data Scientist,425861.08335683914
+2022,MI,Full-time,GB,0,GB,M,Data Scientist,267334.4258632042
+2022,MI,Full-time,GB,0,GB,M,Data Scientist,209483.275325004
+2022,MI,Full-time,Others,100,Others,M,Data Engineer,255201.08341625144
+2022,MI,Full-time,Others,100,Others,M,Data Engineer,218495.85590365334
+2022,MI,Full-time,GB,100,GB,M,Data Engineer,279866.8110221604
+2022,MI,Full-time,GB,100,GB,M,Data Engineer,240199.2538600335
+2022,SE,Full-time,US,100,US,M,Data Scientist,508303.3460293138
+2022,SE,Full-time,Others,100,Others,L,Data Engineer,242614.53940558922
+2022,MI,Full-time,US,0,US,M,Data Engineer,250939.99513029231
+2022,MI,Full-time,US,100,US,L,Machine Learning Engineer,401935.6669734833
+2022,MI,Full-time,US,100,US,L,Machine Learning Engineer,336643.6245268236
+2022,MI,Full-time,US,100,US,M,Manager,490286.86364411196
+2022,MI,Full-time,US,100,US,M,Manager,400694.10324474314
+2022,SE,Full-time,US,0,US,M,Data Scientist,425861.08335683914
+2022,SE,Full-time,US,0,US,M,Data Scientist,282607.5898787061
+2022,MI,Full-time,US,0,US,M,Data Engineer,287917.76009970723
+2022,SE,Full-time,US,100,US,L,Data Engineer,318572.3386507031
+2022,MI,Full-time,Others,100,Others,M,Data Engineer,218495.85590365334
+2022,SE,Full-time,US,0,US,L,Data Scientist,376708.4598201681
+2022,MI,Full-time,GB,100,GB,M,Data Analyst,192311.78446709752
+2022,MI,Full-time,Others,100,Others,M,Data Analyst,204794.3041289598
+2022,MI,Full-time,Others,100,Others,M,Data Analyst,174295.3106414243
+2022,MI,Full-time,Others,100,Others,M,Data Engineer,296887.63822990085
+2022,MI,Full-time,Others,100,Others,M,Data Engineer,276885.15844987705
+2022,MI,Full-time,GB,100,GB,M,Data Engineer,324831.04789737886
+2022,MI,Full-time,GB,100,GB,M,Data Engineer,303267.6380018191
+2022,MI,Full-time,Others,100,Others,M,Data Engineer,255201.08341625144
+2022,MI,Full-time,Others,100,Others,M,Data Engineer,296887.63822990085
+2022,SE,Full-time,US,0,US,M,Machine Learning Engineer,436841.5106551303
+2022,SE,Full-time,US,0,US,M,Machine Learning Engineer,408070.9131974215
+2022,MI,Full-time,Others,100,Others,M,Data Analyst,204794.3041289598
+2022,MI,Full-time,Others,100,Others,M,Data Analyst,174295.3106414243
+2022,MI,Full-time,GB,100,GB,M,Data Engineer,314255.3258752485
+2022,MI,Full-time,GB,100,GB,M,Data Engineer,279866.8110221604
+2022,SE,Full-time,US,0,US,L,Data Scientist,464496.52341121505
+2022,MI,Full-time,Others,100,Others,M,Data Engineer,276885.15844987705
+2022,SE,Full-time,US,100,US,L,Data Engineer,458000.84946949175
+2022,SE,Full-time,US,100,US,L,Data Engineer,395175.7874150541
+2022,SE,Full-time,US,100,US,M,Data Engineer,425861.08335683914
+2022,EN,Full-time,Others,100,Others,L,Machine Learning Engineer,137793.7252482589
+2022,SE,Full-time,US,100,US,M,Data Engineer,282607.5898787061
+2022,MI,Full-time,CA,100,CA,M,Machine Learning Engineer,280361.6843206645
+2022,EX,Full-time,CA,50,CA,L,Manager,444960.38769250683
+2022,MI,Full-time,US,100,US,S,Machine Learning Engineer,348152.6549325881
+2022,EN,Full-time,US,0,US,M,Machine Learning Engineer,355398.1964952432
+2022,MI,Full-time,US,50,US,L,Machine Learning Engineer,186684.7294523688
+2022,SE,Full-time,US,100,US,M,Data Engineer,325303.4817339019
+2022,SE,Full-time,DE,0,DE,M,Manager,296887.63822990085
+2022,MI,Full-time,IN,100,IN,M,Data Analyst,124087.45076488386
+2022,MI,Full-time,IN,100,IN,L,Data Scientist,170168.23915926003
+2022,MI,Full-time,Others,50,Others,L,Machine Learning Engineer,238792.36008794224
+2022,EN,Full-time,US,50,US,L,Data Analyst,317272.0623658748
+2022,MI,Part-time,DE,50,DE,L,Data Engineer,231391.99460315815
+2022,EN,Full-time,IN,100,IN,M,Data Scientist,124087.45076488386
+2022,SE,Full-time,DE,100,DE,M,Data Scientist,405233.2743055132
+2022,EN,Full-time,US,100,US,M,Data Engineer,348152.6549325881
+2022,SE,Full-time,US,50,US,L,Data Scientist,381490.37545437214
+2022,SE,Full-time,US,100,US,M,Data Scientist,325129.18330714037
+2022,SE,Full-time,US,100,US,M,Data Engineer,317272.0623658748
+2022,SE,Full-time,US,100,US,M,Data Scientist,376172.7213757469
+2022,MI,Full-time,US,100,US,M,Data Analyst,369399.01417192357
+2022,MI,Full-time,US,100,US,M,Data Analyst,219794.20854498394
+2022,SE,Full-time,US,100,US,M,Data Scientist,469346.23768783937
+2022,SE,Full-time,US,100,US,M,Data Scientist,376172.7213757469
+2022,MI,Full-time,GB,0,GB,M,Data Scientist,429572.2639997152
+2022,MI,Full-time,GB,0,GB,M,Data Scientist,303267.6380018191
+2022,SE,Full-time,US,100,US,M,Data Scientist,431706.68470782344
+2022,SE,Full-time,US,100,US,M,Machine Learning Engineer,469346.23768783937
+2022,MI,Full-time,US,100,US,M,Data Scientist,448254.46048611734
+2022,MI,Full-time,US,100,US,M,Data Scientist,348152.6549325881
+2022,SE,Full-time,Others,100,Others,S,Machine Learning Engineer,348152.6549325881
+2022,SE,Full-time,Others,100,Others,S,Machine Learning Engineer,253236.85203689706
+2022,EX,Full-time,US,100,US,M,Data Engineer,563688.7779922142
+2022,EX,Full-time,US,100,US,M,Data Engineer,465222.82195915154
+2022,SE,Full-time,US,100,US,M,Data Engineer,458950.8682191474
+2022,SE,Full-time,US,100,US,M,Machine Learning Engineer,348152.6549325881
+2022,SE,Full-time,US,100,US,M,Data Scientist,479461.4730824025
+2022,EN,Part-time,Others,50,Others,M,Data Scientist,317272.0623658748
+2022,MI,Freelance,CA,100,US,M,Data Scientist,317272.0623658748
+2022,EN,Contract,Others,100,Others,M,Machine Learning Engineer,170964.94334356402
+2022,SE,Full-time,Others,100,US,M,Manager,448254.46048611734
+2022,MI,Full-time,CA,100,CA,S,Data Analyst,273190.5144635591
+2022,MI,Full-time,Others,100,Others,L,Data Scientist,181993.94044453444
+2022,SE,Full-time,CA,100,CA,M,Machine Learning Engineer,280361.6843206645
+2022,SE,Full-time,Others,100,US,M,Data Scientist,317272.0623658748
+2022,MI,Full-time,US,50,US,M,Machine Learning Engineer,393146.21193601313
+2022,EN,Full-time,Others,100,DE,M,Data Engineer,238306.01181879453
+2022,SE,Full-time,US,100,US,M,Data Scientist,408075.781032732
+2022,SE,Full-time,Others,50,Others,L,Data Scientist,306355.46471687884
+2022,EN,Full-time,CA,100,CA,L,Data Scientist,225475.13438949478
+2022,SE,Full-time,Others,100,Others,L,Machine Learning Engineer,248305.19931506462
+2022,MI,Full-time,Others,100,Others,S,Manager,174295.3106414243
+2022,EN,Full-time,Others,100,Others,L,Data Scientist,194319.06656670774
+2022,MI,Full-time,Others,100,Others,L,Machine Learning Engineer,295997.30579776125
+2022,SE,Full-time,US,100,US,M,Data Engineer,340729.80366833875
+2022,EN,Full-time,Others,50,Others,M,Data Scientist,294724.3364145654
+2022,MI,Full-time,Others,100,US,L,Machine Learning Engineer,273190.5144635591
+2022,MI,Full-time,Others,0,Others,L,Data Scientist,252922.84404623808
+2022,EN,Full-time,US,100,US,L,Data Scientist,348152.6549325881
+2022,MI,Full-time,US,100,US,L,Data Scientist,398197.0859687932
+2022,EN,Full-time,Others,100,Others,S,Others,389306.8224764528
+2022,MI,Full-time,CA,50,CA,L,Data Analyst,265225.19656602165
+2022,EN,Full-time,US,100,US,S,Data Engineer,253236.85203689706
+2022,SE,Full-time,Others,100,Others,S,Machine Learning Engineer,266276.1108859496
+2022,EN,Full-time,Others,0,Others,M,Data Analyst,130268.2510775479
+2022,MI,Full-time,Others,100,US,S,Data Scientist,214937.27327247
+2022,SE,Full-time,US,100,US,M,Manager,392509.4091397473
+2022,MI,Full-time,Others,100,Others,M,Data Engineer,259690.7742157444
+2022,MI,Full-time,Others,0,Others,L,Data Scientist,351573.6667119105
+2022,SE,Full-time,US,100,US,L,Data Scientist,606870.3356832928
+2022,MI,Full-time,CA,100,CA,M,Data Scientist,262085.7885361528
+2022,EN,Full-time,Others,100,Others,M,Machine Learning Engineer,84830.97743771688
+2022,MI,Full-time,Others,100,Others,S,Data Analyst,130268.2510775479
+2022,SE,Full-time,US,100,US,L,Manager,624879.5077265169
+2022,MI,Full-time,US,100,US,L,Data Scientist,369399.01417192357
+2022,SE,Full-time,US,100,US,L,Data Scientist,422376.4119350471
+2022,MI,Full-time,US,100,US,M,Data Scientist,278881.73539509467
+2022,SE,Full-time,US,100,US,M,Data Analyst,369399.01417192357
+2022,SE,Full-time,US,100,US,M,Data Analyst,317272.0623658748
+2022,SE,Full-time,US,100,US,M,Data Analyst,301042.38330374483
+2022,MI,Full-time,CA,0,CA,M,Data Analyst,291697.7048192592
+2022,MI,Full-time,CA,0,CA,M,Data Analyst,273190.5144635591
+2022,SE,Full-time,US,100,US,M,Machine Learning Engineer,463143.9149420379
+2022,SE,Full-time,US,100,US,M,Machine Learning Engineer,440131.5661096107
+2022,SE,Full-time,US,100,US,M,Data Engineer,514191.7749205233
+2022,SE,Full-time,US,100,US,M,Data Engineer,462225.5033301547
+2022,SE,Full-time,US,100,US,M,Data Analyst,337556.5304246126
+2022,SE,Full-time,US,100,US,M,Data Engineer,395681.2465715519
+2022,MI,Full-time,US,0,US,M,Data Scientist,377910.61185903684
+2022,MI,Full-time,US,0,US,M,Data Scientist,320672.7204191074
+2022,SE,Full-time,US,100,US,M,Data Analyst,342130.38554965274
+2022,SE,Full-time,US,100,US,M,Data Analyst,285671.2462625026
+2022,MI,Full-time,US,0,US,M,Data Engineer,455454.3655420788
+2022,MI,Full-time,US,0,US,M,Data Engineer,315802.10188817384
+2022,SE,Full-time,US,100,US,M,Data Engineer,362477.0972293531
+2022,SE,Full-time,US,100,US,M,Data Engineer,340729.80366833875
+2022,SE,Full-time,US,100,US,M,Data Engineer,333887.8832956009
+2022,SE,Full-time,US,100,US,M,Data Engineer,362477.0972293531
+2022,SE,Full-time,US,100,US,M,Data Analyst,315720.213485337
+2022,SE,Full-time,US,100,US,M,Data Engineer,401935.6669734833
+2022,SE,Full-time,US,0,US,L,Data Scientist,453962.4219536166
+2022,SE,Full-time,US,0,US,L,Data Scientist,376708.4598201681
+2022,SE,Full-time,US,100,US,M,Data Scientist,421207.07012855186
+2022,SE,Full-time,US,100,US,M,Data Scientist,381490.37545437214
+2022,SE,Full-time,US,100,US,M,Data Engineer,448362.98965826695
+2022,SE,Full-time,US,100,US,M,Data Engineer,401935.6669734833
+2022,SE,Full-time,US,100,US,M,Data Engineer,382806.21843611926
+2022,SE,Full-time,US,0,US,M,Data Engineer,264408.29163707234
+2022,SE,Full-time,US,0,US,M,Data Scientist,453962.4219536166
+2022,SE,Full-time,US,0,US,M,Data Scientist,376708.4598201681
+2022,SE,Full-time,US,0,US,M,Data Analyst,453962.4219536166
+2022,SE,Full-time,US,0,US,M,Data Analyst,431251.69457536686
+2022,SE,Full-time,US,100,US,M,Data Engineer,420151.28710131417
+2022,SE,Full-time,US,100,US,M,Data Engineer,376507.66277091287
+2022,SE,Full-time,US,100,US,M,Data Analyst,342453.358269532
+2022,SE,Full-time,US,0,US,M,Data Engineer,229199.0552025355
+2022,SE,Full-time,US,100,US,M,Data Analyst,414106.8573405301
+2022,MI,Full-time,GB,0,GB,M,Data Analyst,254145.391795042
+2022,SE,Full-time,US,100,US,M,Data Analyst,282607.5898787061
+2022,SE,Full-time,US,100,US,M,Data Scientist,376172.7213757469
+2022,SE,Full-time,US,100,US,M,Data Scientist,458950.8682191474
+2022,SE,Full-time,US,100,US,M,Data Scientist,376172.7213757469
+2022,SE,Full-time,US,100,US,M,Data Analyst,317272.0623658748
+2022,SE,Full-time,US,100,US,M,Data Analyst,261411.32363899806
+2022,SE,Full-time,US,100,US,M,Data Scientist,458950.8682191474
+2022,SE,Full-time,US,100,US,M,Data Scientist,376172.7213757469
+2022,SE,Full-time,US,100,US,M,Data Scientist,458950.8682191474
+2022,SE,Full-time,US,100,US,M,Data Analyst,389403.3549203085
+2022,SE,Full-time,US,100,US,M,Data Engineer,317272.0623658748
+2022,SE,Full-time,US,100,US,M,Data Engineer,148608.1232821151
+2022,SE,Full-time,US,100,US,M,Data Analyst,357538.90627762955
+2022,SE,Full-time,US,100,US,M,Data Analyst,327292.5423837541
+2022,SE,Full-time,US,100,US,M,Data Engineer,469458.99296627595
+2022,SE,Full-time,US,100,US,M,Data Engineer,402034.79402987566
+2022,SE,Full-time,US,100,US,M,Data Analyst,325303.4817339019
+2022,SE,Full-time,US,100,US,M,Data Analyst,334540.8678590647
+2022,MI,Full-time,GB,0,GB,M,Data Analyst,209483.275325004
+2022,SE,Full-time,US,100,US,M,Data Scientist,376172.7213757469
+2022,SE,Full-time,US,0,US,M,Data Analyst,315638.3013911815
+2022,SE,Full-time,US,100,US,M,Data Analyst,242614.53940558922
+2022,SE,Full-time,US,100,US,M,Data Engineer,440091.59803733166
+2022,SE,Full-time,US,100,US,M,Data Engineer,382614.4379671554
+2022,SE,Full-time,US,100,US,M,Data Scientist,479461.4730824025
+2022,SE,Full-time,US,100,US,M,Data Scientist,389306.8224764528
+2022,SE,Full-time,US,100,US,M,Manager,389641.3470776168
+2022,SE,Full-time,US,100,US,M,Manager,332005.3436222827
+2022,SE,Full-time,US,100,US,M,Data Scientist,458950.8682191474
+2022,SE,Full-time,US,100,US,M,Data Analyst,414106.8573405301
+2022,MI,Full-time,US,100,US,M,Data Scientist,401935.6669734833
+2022,MI,Full-time,US,100,US,M,Data Scientist,362477.0972293531
+2022,EN,Full-time,CA,0,CA,M,Data Analyst,257358.13430406508
+2022,EN,Full-time,CA,0,CA,M,Data Analyst,224546.17384663245
+2022,SE,Full-time,US,100,US,M,Data Engineer,394416.15244973777
+2022,SE,Full-time,US,100,US,M,Data Engineer,356826.9851962231
+2022,SE,Full-time,US,0,US,M,Data Analyst,361074.1713455376
+2022,SE,Full-time,US,100,US,M,Data Analyst,389306.8224764528
+2022,MI,Full-time,IN,100,US,L,Data Scientist,448254.46048611734
