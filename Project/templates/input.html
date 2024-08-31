@@ -1,0 +1,21 @@
+<!-- templates/input.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Input Iris Features</title>
+</head>
+<body>
+    <h2>Enter Iris Flower Details</h2>
+    <form action="/predict" method="post">
+        <label for="sepal_length">Sepal Length:</label>
+        <input type="text" name="sepal_length"><br>
+        <label for="sepal_width">Sepal Width:</label>
+        <input type="text" name="sepal_width"><br>
+        <label for="petal_length">Petal Length:</label>
+        <input type="text" name="petal_length"><br>
+        <label for="petal_width">Petal Width:</label>
+        <input type="text" name="petal_width"><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

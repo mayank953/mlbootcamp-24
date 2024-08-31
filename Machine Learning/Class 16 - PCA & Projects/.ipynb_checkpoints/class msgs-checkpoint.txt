@@ -1,0 +1,4 @@
+ https://www.geogebra.org/m/YCZa8TAH
+
+
+this is doing the same, what we can do manually, like if we have length and width as 2 different column of dataset.... then we can make a single column using these 2 by calculating (length*width)=area...…. same is being done in  PCA coz, it automatically make new feature with the combination of different features... and help us reducing in complexity of features
